@@ -369,4 +369,4 @@ From the book **"The Design of Everyday Things"** by Donald Norman. This model d
 
 ---
 
-_📁 ISD · Chapter 2 of N · Links: [[ISD_Chapter1_HCI]] | Next: [[ISD_Chapter3]]_
+_📁 ISD · Chapter 2 of N · Links: [[Chapter 1 — Interactive Software & Human-Computer Interaction]] | Next: [[Chapter 3 — Predictive Models Fitts' Law & KLM]]_

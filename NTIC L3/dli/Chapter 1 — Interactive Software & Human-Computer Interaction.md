@@ -164,4 +164,4 @@ Instead, successful HCI designers:
 
 ---
 
-_📁 ISD · Chapter 1 of N · Next: [[ISD_Chapter2]]_
+_📁 ISD · Chapter 1 of N · Next: [[Chapter 2 — Descriptive & Predictive Models of the Human]]_
