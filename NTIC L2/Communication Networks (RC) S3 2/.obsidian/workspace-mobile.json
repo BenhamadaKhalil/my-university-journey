@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "392383cd3e0f4f3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b724cb8254c4c29a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73f0cf1d966302c2",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "شرح ال OSI Model وال 7 مراحل شرح مبسط بالعربي في 20 دقيقة فقط - YouTube - Opera 22-04-2025 16_42_43.png"
+              },
+              "icon": "lucide-image",
+              "title": "شرح ال OSI Model وال 7 مراحل شرح مبسط بالعربي في 20 دقيقة فقط - YouTube - Opera 22-04-2025 16_42_43"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dcfc85855e35c617",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d48cdcc23af49741",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "1e0e33cc6b9523b4",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "b740d47745ea493e",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "358627bdfc6b8ba3",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "e9714163492e9d0a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3d2ffa83aa0d9bef",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "شرح ال OSI Model وال 7 مراحل شرح مبسط بالعربي في 20 دقيقة فقط - YouTube - Opera 22-04-2025 16_42_43.png",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "6c8bcf871c27c5e3",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Chapter 4 Data Link Layer.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "542086a65fa08845",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Chapter 4 Data Link Layer.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "73f0cf1d966302c2",
+  "lastOpenFiles": [
+    "Chapter 4 Data Link Layer.md",
+    "شرح ال OSI Model وال 7 مراحل شرح مبسط بالعربي في 20 دقيقة فقط - YouTube - Opera 22-04-2025 16_42_43.png",
+    "ملخص RC.pdf",
+    "Chapter 3 Calculus.md",
+    "Chapter 2 OSI Reference Model.md"
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "dd6e25927f584655",
+    "type": "split",
+    "children": [
+      {
+        "id": "8000fa76bd728d9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d1a1717471e9c1b",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "GL.canvas",
+                "viewState": {
+                  "x": -332.05988625598155,
+                  "y": -290.38426540302027,
+                  "zoom": -3.311979123135514
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "GL"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dd997b01301ad027",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "fe816346f31f250a",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "26cb5f096e3ce9be",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "a848a9c433d87eba",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "e960f9f6e638fa09",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "fb3d3c194c08ff45",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9bf3099b7583d4ce",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Practice Chapiter 2.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "ad90c1d3e64e1627",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "8212605584faae26",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4d1a1717471e9c1b",
+  "lastOpenFiles": [
+    "IMG.png",
+    "Practice Chapiter 2.md",
+    "Use case diagram chapter 3.md",
+    "UML chapter 2.md",
+    "GL.canvas",
+    "UML.md",
+    "Chap 4 (DCL DOB).pdf",
+    "DCL-DOB Chapter 4.md",
+    "Modélisation orientée objet Chapitre 2.md",
+    "Practice Chapter 3.md",
+    "Chapitre 2 Modélisation orientée objet.md",
+    "chapter 3 Use case diagram.md"
+  ]
+}

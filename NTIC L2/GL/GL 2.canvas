@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"a4b4baf98bd1d350","type":"file","file":"UNIV/NTIC L2/Génie Logiciel S3/UML.md","x":-280,"y":-360,"width":700,"height":400},
+		{"id":"87593d9f6ad80778","type":"file","file":"UNIV/NTIC L2/Génie Logiciel S3/IMG.png","x":-180,"y":-720,"width":400,"height":302},
+		{"id":"4ed4a7183ba29323","type":"file","file":"NTIC L2/Génie Logiciel S3/Use case diagram chapter 3.md","x":220,"y":120,"width":400,"height":400},
+		{"id":"62e6a6fe20ab9029","type":"file","file":"UNIV/NTIC L2/Génie Logiciel S3/UML chapter 2.md","x":-560,"y":120,"width":400,"height":400},
+		{"id":"0e796258fc490582","type":"file","file":"UNIV/NTIC L2/Génie Logiciel S3/Practice Chapter 3.md","x":220,"y":580,"width":400,"height":400},
+		{"id":"3441d4c2ed0cbd42","type":"file","file":"UNIV/NTIC L2/Génie Logiciel S3/Practice Chapiter 2.md","x":-560,"y":580,"width":400,"height":400},
+		{"id":"0b290aa4156160e0","type":"text","text":"\n[[Chapitre 2 -UML]]\n[[Chapitre 4 - DCL DOB]]\n[[Chapitre 3 - Use case diagram]]\n","x":560,"y":-636,"width":250,"height":135},
+		{"id":"e77d82e0c6846299","type":"file","file":"UNIV/NTIC L2/Génie Logiciel S3/DCL-DOB Chapter 4.md","x":780,"y":-240,"width":400,"height":400},
+		{"id":"0053aba2de1e97bb","type":"file","file":"UNIV/NTIC L2/Génie Logiciel S3/Chap 4 (DCL DOB).pdf","x":880,"y":340,"width":600,"height":360}
+	],
+	"edges":[
+		{"id":"18e18b63b4f265ca","fromNode":"a4b4baf98bd1d350","fromSide":"top","toNode":"87593d9f6ad80778","toSide":"bottom"},
+		{"id":"b2a0828f04f9e331","fromNode":"a4b4baf98bd1d350","fromSide":"bottom","toNode":"62e6a6fe20ab9029","toSide":"top"},
+		{"id":"ec328a2d03c37227","fromNode":"a4b4baf98bd1d350","fromSide":"bottom","toNode":"4ed4a7183ba29323","toSide":"top"},
+		{"id":"a6ea0cb5e4b86355","fromNode":"4ed4a7183ba29323","fromSide":"bottom","toNode":"0e796258fc490582","toSide":"top"},
+		{"id":"711e733c08a8626a","fromNode":"62e6a6fe20ab9029","fromSide":"bottom","toNode":"3441d4c2ed0cbd42","toSide":"top"},
+		{"id":"8f922b284c99fc5f","fromNode":"0b290aa4156160e0","fromSide":"bottom","toNode":"a4b4baf98bd1d350","toSide":"top"},
+		{"id":"899e321672343590","fromNode":"a4b4baf98bd1d350","fromSide":"right","toNode":"e77d82e0c6846299","toSide":"left"},
+		{"id":"b5a8191330ff0af9","fromNode":"e77d82e0c6846299","fromSide":"bottom","toNode":"0053aba2de1e97bb","toSide":"top"}
+	]
+}
