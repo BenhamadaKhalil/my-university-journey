@@ -438,3 +438,9 @@ if(lock.writeLock().tryLock()) {
 |Avoid writer blocking|Use `tryLock()`|
 
 ---
+
+---
+## 🔗 Navigation
+- **Module:** [[NTIC L3/DAC/DAC|◀ DAC]]
+- **Semester:** [[NTIC L3/NTIC L3|◀ NTIC L3]]
+- **Academic Home:** [[README|🏠 Home]]

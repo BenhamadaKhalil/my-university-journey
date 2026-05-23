@@ -46,7 +46,7 @@ The core trade-off: **moving quickly toward a small target → more errors** (sp
 ### 3 Uses of Fitts' Law in HCI
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
+┌─────────────────────────────────────────────────────────────────┐  
 │               3 USES OF FITTS' LAW IN HCI                      │
 │                                                                 │
 │  1. 🔬 GOODNESS OF FIT                                         │
@@ -71,7 +71,7 @@ The core trade-off: **moving quickly toward a small target → more errors** (sp
 
 ```
 MT = a + b × ID
-
+ 
 Where:
   MT  = Movement Time (seconds)
   a   = constant (reaction/startup time, depends on device)
@@ -134,12 +134,12 @@ ID  = log₂(2D / W)
 MT  = a + b × ID
 ```
 
-|Button W|Distance D|ID = log₂(2D/W)|MT = 0.4 + 0.2 × ID|
-|---|---|---|---|
-|60 px|100 px|log₂(200/60) = log₂(3.33) ≈ 1.74|**0.75 s**|
-|10 px|100 px|log₂(200/10) = log₂(20) ≈ 4.32|**1.26 s**|
-|60 px|50 px|log₂(100/60) = log₂(1.67) ≈ 0.74|**0.55 s**|
-|10 px|50 px|log₂(100/10) = log₂(10) ≈ 3.32|**1.06 s**|
+| Button W | Distance D | ID = log₂(2D/W)                  | MT = 0.4 + 0.2 × ID |
+| -------- | ---------- | -------------------------------- | ------------------- |
+| 60 px    | 100 px     | log₂(200/60) = log₂(3.33) ≈ 1.74 | **0.75 s**          |
+| 10 px    | 100 px     | log₂(200/10) = log₂(20) ≈ 4.32   | **1.26 s**          |
+| 60 px    | 50 px      | log₂(100/60) = log₂(1.67) ≈ 0.74 | **0.55 s**          |
+| 10 px    | 50 px      | log₂(100/10) = log₂(10) ≈ 3.32   | **1.06 s**          |
 
 > ✅ **Conclusion:** Movement time increases when the target is **smaller** or **farther away**.
 
@@ -168,11 +168,11 @@ MT  = a + b × ID
 └────────────────────────────────────────────────────────────────────┘
 ```
 
-|Menu|Description|Fitts' Law Evaluation|
-|---|---|---|
-|📋 **Linear**|Items arranged in a vertical line|Distance increases from first to last item. Place **frequently used items at the top** to reduce selection time.|
-|🔲 **Rectangular**|Items in rows and columns (2D)|Average distance to items is **smaller** than linear → can improve speed.|
-|🥧 **Pie**|Items arranged in a circle around center|**All items at equal distance** → equal selection time for all. But less familiar to users, which adds cognitive cost.|
+| Menu               | Description                              | Fitts' Law Evaluation                                                                                                  |
+| ------------------ | ---------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| 📋 **Linear**      | Items arranged in a vertical line        | Distance increases from first to last item. Place **frequently used items at the top** to reduce selection time.       |
+| 🔲 **Rectangular** | Items in rows and columns (2D)           | Average distance to items is **smaller** than linear → can improve speed.                                              |
+| 🥧 **Pie**         | Items arranged in a circle around center | **All items at equal distance** → equal selection time for all. But less familiar to users, which adds cognitive cost. |
 
 ---
 
@@ -247,15 +247,16 @@ A **keystroke** = pressing one key on the keyboard once.
 ### 🔑 The KLM Operators Table
 
 Each primitive action has a standard time cost:
+ 
 
-|Operator|Action|Time|
-|---|---|---|
-|**K**|Press a key or button|Varies by typist (see below)|
-|**P**|Point with a mouse (Fitts' Law based)|**1.10 s**|
-|**H**|Home hands to keyboard or device|**0.40 s**|
-|**D**|Draw n straight-line segments|0.9n + 0.16/D s|
-|**M**|Mentally prepare (think before acting)|**1.35 s**|
-|**R(t)**|Wait for system Response|t seconds (counted only if user must wait)|
+| Operator | Action                                 | Time                                       |
+| -------- | -------------------------------------- | ------------------------------------------ |
+| **K**    | Press a key or button                  | Varies by typist (see below)               |
+| **P**    | Point with a mouse (Fitts' Law based)  | **1.10 s**                                 |
+| **H**    | Home hands to keyboard or device       | **0.40 s**                                 |
+| **D**    | Draw n straight-line segments          | 0.9n + 0.16/D s                            |
+| **M**    | Mentally prepare (think before acting) | **1.35 s**                                 |
+| **R(t)** | Wait for system Response               | t seconds (counted only if user must wait) |
 
 **K operator — typing speed breakdown:**
 
@@ -331,6 +332,7 @@ Click → Think → Point Enter → Click
 Operators:  M  +  H  +  P  +  K  +  M  +  P  +  K  +  M  +  P  +  K
 Time:      1.35+0.40+1.10+0.20+1.35+1.10+0.20+1.35+1.10+0.20
          = 8.35 seconds
+         
 
 → Typical of NOVICE users unfamiliar with shortcuts 🧑‍🎓
 ```
@@ -341,10 +343,10 @@ Time:      1.35+0.40+1.10+0.20+1.35+1.10+0.20+1.35+1.10+0.20
 ┌──────────────────────────────────────────────────────────────┐
 │              SHORTCUT vs MENU — PRINT ACTION                 │
 │                                                              │
-│  ⌨️ Ctrl + P   →  3.70 s   ████░░░░░░░░░░░░░░░  FAST       │
-│  🖱️ File>Print →  8.35 s   ████████████████████  SLOW       │
+│  ⌨️ Ctrl + P   →  3.70 s   ████░░░░░░░░░░░░░░░  FAST         │
+│  🖱️ File>Print →  8.35 s   ████████████████████  SLOW        │
 │                                                              │
-│  Difference: 8.35 - 3.70 = 4.65 seconds per print!          │
+│  Difference: 8.35 - 3.70 = 4.65 seconds per print!           │
 │  Over 100 prints = 7.75 minutes lost using menus             │
 └──────────────────────────────────────────────────────────────┘
 ```
@@ -353,13 +355,13 @@ Time:      1.35+0.40+1.10+0.20+1.35+1.10+0.20+1.35+1.10+0.20
 
 ### 📚 KLM Applied — Common Task Examples
 
-|Task|Method A (faster)|Method B (slower)|
-|---|---|---|
-|💾 Save a document|`Ctrl+S`|File → Save|
-|📨 Send a message|Select from suggestion list|Type recipient name manually|
-|📋 Copy & paste|`Ctrl+C` / `Ctrl+V`|Right-click → context menu|
-|🔍 Search for a file|Type in search bar|Navigate folders manually|
-|🔍 Zoom into image|Keyboard shortcut|Click zoom button repeatedly|
+| Task                 | Method A (faster)           | Method B (slower)            |
+| -------------------- | --------------------------- | ---------------------------- |
+| 💾 Save a document   | `Ctrl+S`                    | File → Save                  |
+| 📨 Send a message    | Select from suggestion list | Type recipient name manually |
+| 📋 Copy & paste      | `Ctrl+C` / `Ctrl+V`         | Right-click → context menu   |
+| 🔍 Search for a file | Type in search bar          | Navigate folders manually    |
+| 🔍 Zoom into image   | Keyboard shortcut           | Click zoom button repeatedly |
 
 ---
 
@@ -384,16 +386,16 @@ Time:      1.35+0.40+1.10+0.20+1.35+1.10+0.20+1.35+1.10+0.20
 ---
 
 ## 🧠 Chapter Summary — Both Models at a Glance
-
-||Fitts' Law|KLM|
+|Model|Fitts' Law|KLM|
 |---|---|---|
-|**Created by**|Paul Fitts (1954)|Card, Moran & Newell|
-|**Predicts**|Time to point to a target|Total expert task completion time|
-|**Key formula**|MT = a + b × log₂(2D/W)|t = Σ(tK + tP + tH + tM + tR)|
-|**Main variables**|Distance (D) + Width (W)|Operators (K, P, H, M, R)|
-|**Best for**|Button/target placement decisions|Comparing interaction methods|
-|**User type**|Any|Expert users only|
-|**Errors**|Considered (speed-accuracy trade-off)|NOT considered (error-free assumed)|
+|**Created by**|Paul Fitts (1954)|Stuart Card, Thomas P. Moran & Allen Newell|
+|**Predicts**|Time to point/select a target|Total expert task completion time|
+|**Key formula**|( MT = a + b \times \log_2(2D/W) )|( t = \Sigma(t_K + t_P + t_H + t_M + t_R) )|
+|**Main variables**|Distance (D) and Width (W)|Keystroke, Pointing, Homing, Mental, Response|
+|**Best for**|UI layout and target/button sizing|Comparing interface interaction efficiency|
+|**User type**|General users|Expert users only|
+|**Errors**|Includes speed–accuracy trade-off|Assumes error-free performance|
+|**Focus**|Single pointing action|Entire interaction sequence|
 
 ---
 
@@ -411,3 +413,9 @@ Time:      1.35+0.40+1.10+0.20+1.35+1.10+0.20+1.35+1.10+0.20
 ---
 
 _📁 ISD · Chapter 3 of N · Links: [[Chapter 2 — Descriptive & Predictive Models of the Human]]] | Next: [[Chapter 4 — Design & Implementation of Interactive Systems]]]_
+
+---
+## 🔗 Navigation
+- **Module:** [[NTIC L3/DLI/DLI|◀ DLI]]
+- **Semester:** [[NTIC L3/NTIC L3|◀ NTIC L3]]
+- **Academic Home:** [[README|🏠 Home]]

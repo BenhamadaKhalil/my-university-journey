@@ -277,3 +277,9 @@ If you want, next I can:
 - 🔹 Give you **typical exam questions + answers**
     
 - 🔹 Create a **visual mind map**
+
+---
+## 🔗 Navigation
+- **Module:** [[NTIC L3/GPL/GPL|◀ GPL]]
+- **Semester:** [[NTIC L3/NTIC L3|◀ NTIC L3]]
+- **Academic Home:** [[README|🏠 Home]]

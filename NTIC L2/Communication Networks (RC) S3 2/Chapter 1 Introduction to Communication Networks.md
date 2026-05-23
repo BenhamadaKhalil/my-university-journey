@@ -149,3 +149,9 @@ Network topology refers to the physical or logical arrangement of the elements (
 
 ## Conclusion:
 Network topologies are essential in determining how devices are connected and how data flows within a network. Each topology has its own strengths and weaknesses, and the choice of topology depends on factors like the size of the network, budget, and reliability needs.
+
+---
+## 🔗 Navigation
+- **Module:** [[Communication Networks (RC) S3 2|◀ Communication Networks (RC) S3 2]]
+- **Semester:** [[NTIC L2|◀ NTIC L2]]
+- **Academic Home:** [[README|🏠 Home]]

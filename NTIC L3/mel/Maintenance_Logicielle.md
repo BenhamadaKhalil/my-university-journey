@@ -703,3 +703,9 @@ Output : Rapport Go/No-Go + effort estimé + risques identifiés
 ---
 
 *📝 Bon courage pour l'exam ! L'essentiel : maîtriser les 4 types, savoir calculer V(G), comprendre l'analyse d'impact, et connaître les 2 premières lois de Lehman.*
+
+---
+## 🔗 Navigation
+- **Module:** [[NTIC L3/MEL/MEL|◀ MEL]]
+- **Semester:** [[NTIC L3/NTIC L3|◀ NTIC L3]]
+- **Academic Home:** [[README|🏠 Home]]

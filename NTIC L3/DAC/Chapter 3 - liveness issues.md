@@ -81,3 +81,9 @@ Two people in a hallway both move left → block → both move right → block �
     
 
 ---
+
+---
+## 🔗 Navigation
+- **Module:** [[NTIC L3/DAC/DAC|◀ DAC]]
+- **Semester:** [[NTIC L3/NTIC L3|◀ NTIC L3]]
+- **Academic Home:** [[README|🏠 Home]]

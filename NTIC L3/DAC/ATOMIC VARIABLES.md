@@ -66,3 +66,9 @@ System.out.println(total.getAndAdd(2)); // affiche 15, total = 17
 |Vérification et mise à jour|`compareAndSet(old, new)`|`true` si succès|
 
 ---
+
+---
+## 🔗 Navigation
+- **Module:** [[NTIC L3/DAC/DAC|◀ DAC]]
+- **Semester:** [[NTIC L3/NTIC L3|◀ NTIC L3]]
+- **Academic Home:** [[README|🏠 Home]]

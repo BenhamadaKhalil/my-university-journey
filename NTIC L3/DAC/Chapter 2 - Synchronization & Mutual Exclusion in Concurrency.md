@@ -224,3 +224,9 @@ synchronized (this) {
 This is **more efficient** as it locks less code.
 
 ---
+
+---
+## 🔗 Navigation
+- **Module:** [[NTIC L3/DAC/DAC|◀ DAC]]
+- **Semester:** [[NTIC L3/NTIC L3|◀ NTIC L3]]
+- **Academic Home:** [[README|🏠 Home]]

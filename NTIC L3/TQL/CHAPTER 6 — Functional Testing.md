@@ -454,3 +454,9 @@ If you want next:
     
 
 Just tell me 💪
+
+---
+## 🔗 Navigation
+- **Module:** [[NTIC L3/TQL/TQL|◀ TQL]]
+- **Semester:** [[NTIC L3/NTIC L3|◀ NTIC L3]]
+- **Academic Home:** [[README|🏠 Home]]

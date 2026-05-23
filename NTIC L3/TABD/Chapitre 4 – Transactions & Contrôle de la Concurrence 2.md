@@ -387,3 +387,9 @@ T2 écrit A = 60
 > Les accès concurrents provoquent des anomalies corrigées par la sérialisabilité, les verrous et les niveaux d’isolation.
 
 ---
+
+---
+## 🔗 Navigation
+- **Module:** [[NTIC L3/TABD/TABD|◀ TABD]]
+- **Semester:** [[NTIC L3/NTIC L3|◀ NTIC L3]]
+- **Academic Home:** [[README|🏠 Home]]

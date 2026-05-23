@@ -133,5 +133,10 @@ Each layer in the OSI model uses its own set of protocols to perform specific ta
 The **OSI Model** helps standardize communication between devices of varying capabilities, ensuring seamless data exchange regardless of differences in hardware, software, or vendor. By utilizing **encapsulation**, **protocols**, and **services**, each layer in the OSI model ensures that data is transmitted effectively, securely, and accurately across networks. The cooperation between these layers guarantees that devices can "speak" the same language and work together harmoniously, even in a diverse technological landscape.
 
 
- ![OSI Layers and Attack](UNIV/NTIC%20L2/Communication%20Networks%20(RC)%20S3%202/Éducation.jpeg)
+ ![OSI Layers and Attack](Éducation.jpeg)
 
+---
+## 🔗 Navigation
+- **Module:** [[Communication Networks (RC) S3 2|◀ Communication Networks (RC) S3 2]]
+- **Semester:** [[NTIC L2|◀ NTIC L2]]
+- **Academic Home:** [[README|🏠 Home]]

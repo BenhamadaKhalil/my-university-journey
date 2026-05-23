@@ -132,3 +132,9 @@
 - **Brands** (marks, trademarks) help distinguish products and services and are protected through registration.
 - **Industrial designs** protect the aesthetic aspects of products.
 - **Controlled appellations** (geographical indications) protect products linked to their place of origin.
+
+---
+## 🔗 Navigation
+- **Module:** [[AJEL|◀ AJEL]]
+- **Semester:** [[NTIC L2|◀ NTIC L2]]
+- **Academic Home:** [[README|🏠 Home]]

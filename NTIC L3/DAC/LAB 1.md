@@ -240,3 +240,9 @@ public class Ex5 {
 All 5 exercises explained clearly, clean code, no unnecessary output.
 
 ---
+
+---
+## 🔗 Navigation
+- **Module:** [[NTIC L3/DAC/DAC|◀ DAC]]
+- **Semester:** [[NTIC L3/NTIC L3|◀ NTIC L3]]
+- **Academic Home:** [[README|🏠 Home]]

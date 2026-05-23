@@ -89,3 +89,9 @@ UML is a powerful tool for modeling and designing complex software systems. It i
 [[Chapitre 4 - DCL DOB]]
 [[Chapitre 3 - Use case diagram]]
 [[GL.canvas|GL]]
+
+---
+## 🔗 Navigation
+- **Module:** [[GL|◀ GL]]
+- **Semester:** [[NTIC L2|◀ NTIC L2]]
+- **Academic Home:** [[README|🏠 Home]]

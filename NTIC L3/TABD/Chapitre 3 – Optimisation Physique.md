@@ -399,3 +399,9 @@ _(mentionnée dans le plan du cours)_
 > **L’optimisation physique choisit les opérateurs et algorithmes concrets (scan, index, jointure) afin de minimiser les E/S disque et le temps d’exécution.**
 
 ---
+
+---
+## 🔗 Navigation
+- **Module:** [[NTIC L3/TABD/TABD|◀ TABD]]
+- **Semester:** [[NTIC L3/NTIC L3|◀ NTIC L3]]
+- **Academic Home:** [[README|🏠 Home]]

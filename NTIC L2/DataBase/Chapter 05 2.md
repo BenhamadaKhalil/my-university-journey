@@ -931,3 +931,9 @@ Normalization has resolved issues of **data redundancy**, **update anomalies**, 
 
 This example case illustrates how to normalize a database schema through the different normal forms, starting from an unnormalized relation and progressing to **3NF**. You can copy this directly into Obsidian for easy reference. Let me know if you'd like any adjustments or further details!
 ```
+
+---
+## 🔗 Navigation
+- **Module:** [[DataBase|◀ DataBase]]
+- **Semester:** [[NTIC L2|◀ NTIC L2]]
+- **Academic Home:** [[README|🏠 Home]]

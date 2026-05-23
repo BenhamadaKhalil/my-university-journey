@@ -69,3 +69,9 @@
 - **Software patents** are generally excluded, but software can be patented if it involves technical aspects, novelty, and industrial application.
 - **Users** of software have specific rights, including correcting errors, making backups, and decompiling, under certain conditions.
 - **Licensing** is essential to regulate software distribution and usage, ensuring both **rights** and **obligations** are respected.
+
+---
+## 🔗 Navigation
+- **Module:** [[AJEL|◀ AJEL]]
+- **Semester:** [[NTIC L2|◀ NTIC L2]]
+- **Academic Home:** [[README|🏠 Home]]

@@ -715,3 +715,9 @@ D. One final delivery
 If you can answer **12+ / 15 correctly**, you’re **exam-ready** for Chapter 1.
 
 ---
+
+---
+## 🔗 Navigation
+- **Module:** [[NTIC L3/TQL/TQL|◀ TQL]]
+- **Semester:** [[NTIC L3/NTIC L3|◀ NTIC L3]]
+- **Academic Home:** [[README|🏠 Home]]

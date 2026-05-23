@@ -103,3 +103,9 @@ In this exercise, the goal is to model an **ATM System** that allows users to ch
 This breakdown should now be formatted properly for pasting into Obsidian. Each exercise is divided clearly, and each answer is followed by an explanation, ready for your use.
 
 Let me know if you need further assistance!
+
+---
+## 🔗 Navigation
+- **Module:** [[GL|◀ GL]]
+- **Semester:** [[NTIC L2|◀ NTIC L2]]
+- **Academic Home:** [[README|🏠 Home]]

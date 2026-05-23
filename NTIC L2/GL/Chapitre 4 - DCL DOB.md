@@ -151,3 +151,8 @@ Class and Object Diagrams are foundational tools in **static modeling**. **Class
 
 [[UNIV/NTIC L2/Génie Logiciel S3 2/Chap 4 (DCL DOB).pdf]]
 
+---
+## 🔗 Navigation
+- **Module:** [[GL|◀ GL]]
+- **Semester:** [[NTIC L2|◀ NTIC L2]]
+- **Academic Home:** [[README|🏠 Home]]

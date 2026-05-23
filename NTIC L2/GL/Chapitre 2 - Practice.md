@@ -277,3 +277,8 @@ By following these steps, you can systematically break down the exercise and des
 
 Let me know if you'd like further clarification or more examples!
 
+---
+## 🔗 Navigation
+- **Module:** [[GL|◀ GL]]
+- **Semester:** [[NTIC L2|◀ NTIC L2]]
+- **Academic Home:** [[README|🏠 Home]]

@@ -339,3 +339,9 @@ If you want next:
     
 
 Just say 👍
+
+---
+## 🔗 Navigation
+- **Module:** [[NTIC L3/GPL/GPL|◀ GPL]]
+- **Semester:** [[NTIC L3/NTIC L3|◀ NTIC L3]]
+- **Academic Home:** [[README|🏠 Home]]

@@ -129,3 +129,9 @@ If you'd like, I can now create:
 Just tell me:  
 **Do you want a Short Revision Sheet (1 page)?**  
 **Yes / No** 😊
+
+---
+## 🔗 Navigation
+- **Module:** [[NTIC L3/GL2/GL2|◀ GL2]]
+- **Semester:** [[NTIC L3/NTIC L3|◀ NTIC L3]]
+- **Academic Home:** [[README|🏠 Home]]

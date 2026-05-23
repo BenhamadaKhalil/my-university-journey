@@ -220,4 +220,8 @@ The **LLC sublayer** in Ethernet plays a vital role in managing data flow, ensur
 ## Conclusion:
 **Data Link Layer hardware** is essential for the proper functioning of a network. Devices like **switches**, **bridges**, **modems**, and **NICs** facilitate the transmission of data, ensure efficient communication, and manage the flow of frames between devices on the network. These devices operate at the Data Link Layer, handling data integrity and network traffic management.
 
-
+---
+## 🔗 Navigation
+- **Module:** [[Communication Networks (RC) S3 2|◀ Communication Networks (RC) S3 2]]
+- **Semester:** [[NTIC L2|◀ NTIC L2]]
+- **Academic Home:** [[README|🏠 Home]]

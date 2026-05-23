@@ -108,3 +108,8 @@ From a legal perspective, software can be categorized into **three main types**:
 - **Proprietary software** is typically **closed-source** and sold under **strict licenses**, while **free software** grants users greater **freedom** to modify and share the software.
 - **Licensing** is critical in ensuring both **rights** and **obligations** are respected between software authors and users.
 
+---
+## 🔗 Navigation
+- **Module:** [[AJEL|◀ AJEL]]
+- **Semester:** [[NTIC L2|◀ NTIC L2]]
+- **Academic Home:** [[README|🏠 Home]]

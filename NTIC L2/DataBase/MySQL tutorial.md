@@ -541,3 +541,9 @@ FOREIGN KEY (customer_id) REFERENCES customers(customer_id);
 - **Auto-increment** is used to automatically generate unique values for primary key columns (e.g., `transaction_id` and `customer_id`).
     
 - **Named constraints** (like `fk_customer_id`) are useful for clarity, especially in more complex databases.
+
+---
+## 🔗 Navigation
+- **Module:** [[DataBase|◀ DataBase]]
+- **Semester:** [[NTIC L2|◀ NTIC L2]]
+- **Academic Home:** [[README|🏠 Home]]

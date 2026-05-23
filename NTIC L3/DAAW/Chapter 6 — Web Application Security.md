@@ -354,3 +354,9 @@ If you want next, I can:
     
 
 Just tell me 👌
+
+---
+## 🔗 Navigation
+- **Module:** [[NTIC L3/DAAW/DAAW|◀ DAAW]]
+- **Semester:** [[NTIC L3/NTIC L3|◀ NTIC L3]]
+- **Academic Home:** [[README|🏠 Home]]

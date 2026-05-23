@@ -145,3 +145,9 @@ This phase identifies technical, financial, and operational risks.
 **(Any two of these are acceptable in an exam.)**
 
 ---
+
+---
+## 🔗 Navigation
+- **Module:** [[NTIC L3/GPL/GPL|◀ GPL]]
+- **Semester:** [[NTIC L3/NTIC L3|◀ NTIC L3]]
+- **Academic Home:** [[README|🏠 Home]]

@@ -188,3 +188,8 @@ Je peux :
 * vérifier ton fichier .mpp
 * t’expliquer les erreurs fréquentes à éviter
 
+---
+## 🔗 Navigation
+- **Module:** [[NTIC L3/GPL/GPL|◀ GPL]]
+- **Semester:** [[NTIC L3/NTIC L3|◀ NTIC L3]]
+- **Academic Home:** [[README|🏠 Home]]

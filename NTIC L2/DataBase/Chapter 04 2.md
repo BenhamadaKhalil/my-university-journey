@@ -211,3 +211,9 @@ SELECT name FROM students ORDER BY name DESC;
 ### Conclusion
 
 SQL is an essential tool for working with relational databases, enabling users to create, manipulate, and query databases effectively. Mastering these commands and operations forms the foundation for efficient database management.
+
+---
+## 🔗 Navigation
+- **Module:** [[DataBase|◀ DataBase]]
+- **Semester:** [[NTIC L2|◀ NTIC L2]]
+- **Academic Home:** [[README|🏠 Home]]

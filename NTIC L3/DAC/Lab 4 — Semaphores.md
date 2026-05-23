@@ -578,3 +578,9 @@ Each item:
 | 10  | Fair resource sharing |
 | 11  | Express priority      |
 | 12  | Multi-stage pipeline  |
+
+---
+## 🔗 Navigation
+- **Module:** [[NTIC L3/DAC/DAC|◀ DAC]]
+- **Semester:** [[NTIC L3/NTIC L3|◀ NTIC L3]]
+- **Academic Home:** [[README|🏠 Home]]

@@ -48,3 +48,9 @@
 - There are two primary types of IP: **literary and artistic property (copyright)** and **industrial property** (patents, trademarks, etc.).
 - The **history** of IP shows its evolution from a lack of legal protection to international agreements and organizations like **WIPO** that now govern global IP law.
 - **IP rights** provide creators with exclusive rights, allowing them to control and profit from their creations, and these rights are deeply linked to **human rights** as defined in international declarations.
+
+---
+## 🔗 Navigation
+- **Module:** [[AJEL|◀ AJEL]]
+- **Semester:** [[NTIC L2|◀ NTIC L2]]
+- **Academic Home:** [[README|🏠 Home]]

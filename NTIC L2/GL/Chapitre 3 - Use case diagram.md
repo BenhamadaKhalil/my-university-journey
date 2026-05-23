@@ -83,3 +83,9 @@ A Use Case Diagram is a powerful tool in system design. It helps you:
 By clearly representing how users will interact with the system, Use Case Diagrams are invaluable in planning, designing, and communicating system requirements.
 
 [[Chapitre 3 -Practice]]
+
+---
+## 🔗 Navigation
+- **Module:** [[GL|◀ GL]]
+- **Semester:** [[NTIC L2|◀ NTIC L2]]
+- **Academic Home:** [[README|🏠 Home]]

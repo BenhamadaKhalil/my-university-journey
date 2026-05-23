@@ -152,3 +152,8 @@ UML is a powerful tool for modeling and designing complex software systems. It i
 
 [[UNIV/NTIC L2/Génie Logiciel S3 2/Practice Chapiter 2]]
 
+---
+## 🔗 Navigation
+- **Module:** [[GL|◀ GL]]
+- **Semester:** [[NTIC L2|◀ NTIC L2]]
+- **Academic Home:** [[README|🏠 Home]]

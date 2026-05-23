@@ -18,7 +18,7 @@ A good interface must be:
 │     Intuitive (بديهي) and natural                           │
 │     Users just know what to do without thinking             │
 │                                                             │
-│  2. ⚡ EFFICIENT + EFFECTIVE                                 │
+│  2. ⚡ EFFICIENT + EFFECTIVE                                │
 │     Efficiency  (كفاءة)  → Users accomplish tasks QUICKLY   │
 │     Effectiveness (فعالية) → Users accomplish tasks ACCURATELY│
 │                                                             │
@@ -30,7 +30,7 @@ A good interface must be:
 > ⚠️ **Efficiency ≠ Effectiveness** — a common exam trick!
 > 
 > - Efficiency = **how fast** (speed)
-> - Effectiveness = **how accurately** (quality of outcome)
+> - Effectiveness = **how accurately** (quality of outcome) 
 
 ---
 
@@ -116,16 +116,16 @@ The design of interaction follows **4 main phases with an iteration loop**:
 │          │                                        │                │
 │          ▼                                        │                │
 │   ┌─────────────┐        ┌────────────┐           │                │
-│   │ 🔍 ANALYSIS │───────►│ 🎨 DESIGN  │           │                │
-│   │             │◄──┐    └─────┬──────┘           │                │
-│   └─────────────┘   │          │                  │                │
-│          ▲           │          ▼                  │                │
-│          │    ┌──────┴──────────────────┐          │                │
-│   Eval / │    │    🧪 PROTOTYPE         │          │                │
-│ Heuristic│    └─────────────────────────┘          │                │
-│          │                 │                       │                │
-│          └─────────────────┘                       │                │
-│                                                    │                │
+│   │ 🔍  ANALYSIS│───────►│ 🎨 DESIGN  │___        │                │
+│   │             │◄──┐    └─────┬──────┘   |        │                │
+│   └─────────────┘   │          │          |        │                │
+│          ▲           │          ▼         |         │                │
+│          │    ┌──────┴──────────────────┐ |         │                │
+│   Eval / │    │    🧪 PROTOTYPE         │ |        │                │
+│ Heuristic│    └─────────────────────────┘ |         │                │
+│          │                 │              |         │                │
+│          └─────────────────┘              |         │                │
+│                                           ▼         │                │
 │   ┌──────────────────────────────────────────┐     │                │
 │   │  🚀 IMPLEMENT & DEPLOY ──────────────────┼─────┘                │
 │   └──────────────────────────────────────────┘                      │
@@ -134,12 +134,12 @@ The design of interaction follows **4 main phases with an iteration loop**:
 
 ### Phase Details
 
-|Phase|What happens|Tools / Techniques|
-|---|---|---|
-|📋 **Requirements**|Find out what users need — watch and talk to them|Interviews, observation, video recording|
-|🔍 **Analysis**|Organize results, identify key problems and needs|Task models, scenarios, interaction stories|
-|🎨 **Design**|Move from _what_ is wanted to _how_ to achieve it, guided by rules and heuristics|Design notations, navigation structures, screen layouts|
-|🚀 **Implement & Deploy**|Build and release the final product|Code, hardware, documentation|
+| Phase                     | What happens                                                                      | Tools / Techniques                                      |
+| ------------------------- | --------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| 📋 **Requirements**       | Find out what users need — watch and talk to them                                 | Interviews, observation, video recording                |
+| 🔍 **Analysis**           | Organize results, identify key problems and needs                                 | Task models, scenarios, interaction stories             |
+| 🎨 **Design**             | Move from _what_ is wanted to _how_ to achieve it, guided by rules and heuristics | Design notations, navigation structures, screen layouts |
+| 🚀 **Implement & Deploy** | Build and release the final product                                               | Code, hardware, documentation                           |
 
 ### 🧪 The Prototype Loop
 
@@ -161,9 +161,9 @@ Three widely recognized sets of heuristics for evaluating usable systems:
 ┌──────────────────────────────────────────────────────────────┐
 │           3 MAJOR DESIGN RULE FRAMEWORKS                     │
 │                                                              │
-│  🔟 Nielsen's 10 Heuristics    ← Most commonly used         │
+│  🔟 Nielsen's 10 Heuristics    ← Most commonly used          │
 │  8️⃣  Shneiderman's 8 Golden Rules                            │
-│  7️⃣  Norman's 7 Principles     ← See Chapter 2 (Theory of  │
+│  7️⃣  Norman's 7 Principles     ← See Chapter 2 (Theory of    │
 │                                   Action)                    │
 └──────────────────────────────────────────────────────────────┘
 ```
@@ -196,13 +196,13 @@ Three widely recognized sets of heuristics for evaluating usable systems:
 
 ### Severity Rating Scale:
 
-|Score|Meaning|Action|
-|---|---|---|
-|**0**|Not a problem|Ignore|
-|**1**|Small issue|Fix only if extra time available|
-|**2**|Minor problem|Low priority|
-|**3**|Major problem|Should be fixed|
-|**4**|Critical problem|🔴 **MUST be fixed before release**|
+| Score | Meaning          | Action                              |
+| ----- | ---------------- | ----------------------------------- |
+| **0** | Not a problem    | Ignore                              |
+| **1** | Small issue      | Fix only if extra time available    |
+| **2** | Minor problem    | Low priority                        |
+| **3** | Major problem    | Should be fixed                     |
+| **4** | Critical problem | 🔴 **MUST be fixed before release** |
 
 ---
 
@@ -327,24 +327,25 @@ Good help documentation:
 
 ## 🧠 All 10 Heuristics — Quick Reference Table
 
-|#|Heuristic|One-word memory hook|Bad example|Fix|
-|---|---|---|---|---|
-|1|Visibility of system status|**FEEDBACK**|No upload indicator|Progress bar|
-|2|Match with real world|**FAMILIAR**|Weird delete icon|Trash can 🗑️|
-|3|User control & freedom|**ESCAPE**|No undo/redo|Ctrl+Z support|
-|4|Consistency & standards|**UNIFORM**|Random shortcuts|Ctrl+C = always Copy|
-|5|Error prevention|**PREVENT**|No form validation|Disabled invalid options|
-|6|Recognition not recall|**VISIBLE**|Type commands from memory|Dropdown menus|
-|7|Flexibility & efficiency|**SHORTCUT**|One slow method for all|Menu + keyboard shortcut|
-|8|Aesthetic & minimalist|**MINIMAL**|Cluttered dialogs|Only relevant info shown|
-|9|Error recovery|**DIAGNOSE**|"Error 404" only|Plain-language error + fix|
-|10|Help & documentation|**SUPPORT**|No help available|Searchable, task-focused help|
+| #   | Heuristic                   | One-word memory hook | Bad example               | Fix                           |
+| --- | --------------------------- | -------------------- | ------------------------- | ----------------------------- |
+| 1   | Visibility of system status | **FEEDBACK**         | No upload indicator       | Progress bar                  |
+| 2   | Match with real world       | **FAMILIAR**         | Weird delete icon         | Trash can 🗑️                 |
+| 3   | User control & freedom      | **ESCAPE**           | No undo/redo              | Ctrl+Z support                |
+| 4   | Consistency & standards     | **UNIFORM**          | Random shortcuts          | Ctrl+C = always Copy          |
+| 5   | Error prevention            | **PREVENT**          | No form validation        | Disabled invalid options      |
+| 6   | Recognition not recall      | **VISIBLE**          | Type commands from memory | Dropdown menus                |
+| 7   | Flexibility & efficiency    | **SHORTCUT**         | One slow method for all   | Menu + keyboard shortcut      |
+| 8   | Aesthetic & minimalist      | **MINIMAL**          | Cluttered dialogs         | Only relevant info shown      |
+| 9   | Error recovery              | **DIAGNOSE**         | "Error 404" only          | Plain-language error + fix    |
+| 10  | Help & documentation        | **SUPPORT**          | No help available         | Searchable, task-focused help |
 
 ---
 
 ## 🧠 Chapter Summary — Big Picture
 
 ```
+
 ┌─────────────────────────────────────────────────────────────────────┐
 │                    CHAPTER 4 BIG PICTURE                            │
 │                                                                     │
@@ -385,3 +386,9 @@ Good help documentation:
 ---
 
 _📁 ISD · Chapter 4 (Final Chapter) · Links: [[Chapter 3 — Predictive Models Fitts' Law & KLM]] | [[Chapter 2 — Descriptive & Predictive Models of the Human]] | [[Chapter 1 — Interactive Software & Human-Computer Interaction]]_
+
+---
+## 🔗 Navigation
+- **Module:** [[NTIC L3/DLI/DLI|◀ DLI]]
+- **Semester:** [[NTIC L3/NTIC L3|◀ NTIC L3]]
+- **Academic Home:** [[README|🏠 Home]]

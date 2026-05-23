@@ -328,3 +328,9 @@ Le diagramme de déploiement décrit :
 > _La conception transforme le modèle d’analyse en une solution technique en respectant les contraintes non fonctionnelles et en préparant l’implémentation._
 
 ---
+
+---
+## 🔗 Navigation
+- **Module:** [[NTIC L3/GL2/GL2|◀ GL2]]
+- **Semester:** [[NTIC L3/NTIC L3|◀ NTIC L3]]
+- **Academic Home:** [[README|🏠 Home]]

@@ -340,3 +340,9 @@ Employe  Departement
 > **L’optimisation syntaxique transforme une requête en expressions algébriques équivalentes afin de réduire les données intermédiaires avant l’exécution.**
 
 ---
+
+---
+## 🔗 Navigation
+- **Module:** [[NTIC L3/TABD/TABD|◀ TABD]]
+- **Semester:** [[NTIC L3/NTIC L3|◀ NTIC L3]]
+- **Academic Home:** [[README|🏠 Home]]

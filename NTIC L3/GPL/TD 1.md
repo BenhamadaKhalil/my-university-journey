@@ -99,3 +99,9 @@ The migration choice must be **formalized and written** in the **requirements do
 |4|Migration decision|Must be **written in specifications** as it affects planning and responsibility|
 
 ---
+
+---
+## 🔗 Navigation
+- **Module:** [[NTIC L3/GPL/GPL|◀ GPL]]
+- **Semester:** [[NTIC L3/NTIC L3|◀ NTIC L3]]
+- **Academic Home:** [[README|🏠 Home]]

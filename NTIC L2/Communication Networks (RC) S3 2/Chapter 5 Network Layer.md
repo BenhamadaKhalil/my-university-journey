@@ -721,11 +721,8 @@ Packets destined to IPs within the same network ID are sent directly; others are
 - **ARP** is essential for communication within local networks, enabling devices to link IP addresses to MAC addresses.
 - **RARP** (now obsolete and replaced by other protocols) was used to help devices find their IP address using only their MAC address.
 
-
-
-
-
-
-
-
- 
+---
+## 🔗 Navigation
+- **Module:** [[Communication Networks (RC) S3 2|◀ Communication Networks (RC) S3 2]]
+- **Semester:** [[NTIC L2|◀ NTIC L2]]
+- **Academic Home:** [[README|🏠 Home]]

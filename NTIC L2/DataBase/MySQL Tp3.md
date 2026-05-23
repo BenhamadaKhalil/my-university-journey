@@ -35,3 +35,8 @@
 
 ---
 
+---
+## 🔗 Navigation
+- **Module:** [[DataBase|◀ DataBase]]
+- **Semester:** [[NTIC L2|◀ NTIC L2]]
+- **Academic Home:** [[README|🏠 Home]]

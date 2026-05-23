@@ -236,3 +236,9 @@ if (rs.next()) {
 ✔ Code Java JDBC d'accès à la BD
 
 🎓 **Ce corrigé est prêt pour remise / examen / TP noté**
+
+---
+## 🔗 Navigation
+- **Module:** [[NTIC L3/TABD/TABD|◀ TABD]]
+- **Semester:** [[NTIC L3/NTIC L3|◀ NTIC L3]]
+- **Academic Home:** [[README|🏠 Home]]

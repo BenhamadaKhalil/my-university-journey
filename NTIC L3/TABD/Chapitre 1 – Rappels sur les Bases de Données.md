@@ -256,3 +256,9 @@ CREATE TABLE Voiture (
     
 
 ---
+
+---
+## 🔗 Navigation
+- **Module:** [[NTIC L3/TABD/TABD|◀ TABD]]
+- **Semester:** [[NTIC L3/NTIC L3|◀ NTIC L3]]
+- **Academic Home:** [[README|🏠 Home]]

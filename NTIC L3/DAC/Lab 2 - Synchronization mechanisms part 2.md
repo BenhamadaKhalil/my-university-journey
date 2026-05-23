@@ -192,3 +192,9 @@ If you'd like, I can now:
 ✅ Or rewrite it in **French / Arabic**
 
 Which do you want? 😊
+
+---
+## 🔗 Navigation
+- **Module:** [[NTIC L3/DAC/DAC|◀ DAC]]
+- **Semester:** [[NTIC L3/NTIC L3|◀ NTIC L3]]
+- **Academic Home:** [[README|🏠 Home]]

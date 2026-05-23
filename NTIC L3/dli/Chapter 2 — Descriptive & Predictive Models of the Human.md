@@ -23,10 +23,10 @@ HCI has evolved through three major interface eras:
 
 **Two types of models in this chapter:**
 
-|Type|Purpose|Examples|
-|---|---|---|
-|📝 **Descriptive**|Describe and categorize human behavior|Human Processor, Newell's Time Scale, KAM|
-|📊 **Predictive**|Predict how users will perform tasks|Norman's 7 Stages of Action|
+| Type               | Purpose                                | Examples                                  |
+| ------------------ | -------------------------------------- | ----------------------------------------- |
+| 📝 **Descriptive** | Describe and categorize human behavior | Human Processor, Newell's Time Scale, KAM |
+| 📊 **Predictive**  | Predict how users will perform tasks   | Norman's 7 Stages of Action               |
 
 > ⚠️ **Why study humans?** The more we understand humans, the better our chances of designing interactive systems that work as intended.
 
@@ -63,13 +63,13 @@ The human is viewed **by analogy with a computer** — as an information-process
 
 Sensors convert physical phenomena (light, sound, pressure) into nerve signals sent to the brain.
 
-|Sense|How it works|Key fact for HCI|
-|---|---|---|
-|👁️ **Vision**|Light → lens → retina → optic nerve|80% of our information comes through sight!|
-|👂 **Hearing**|Sound waves → eardrum → nerve impulses|Used for alerts, feedback sounds|
-|✋ **Touch**|Cutaneous sensors in skin|Includes body position (proprioception) & movement (kinesthesis)|
-|👃 **Smell**|~10 main odor categories|Closely linked to memory & emotions|
-|👅 **Taste**|Gustatory system|Less relevant for digital HCI|
+| Sense          | How it works                           | Key fact for HCI                                                 |
+| -------------- | -------------------------------------- | ---------------------------------------------------------------- |
+| 👁️ **Vision** | Light → lens → retina → optic nerve    | 80% of our information comes through sight!                      |
+| 👂 **Hearing** | Sound waves → eardrum → nerve impulses | Used for alerts, feedback sounds                                 |
+| ✋ **Touch**    | Cutaneous sensors in skin              | Includes body position (proprioception) & movement (kinesthesis) |
+| 👃 **Smell**   | ~10 main odor categories               | Closely linked to memory & emotions                              |
+| 👅 **Taste**   | Gustatory system                       | Less relevant for digital HCI                                    |
 
 > 💡 **Vision detail:** Eyes work through **fixations** (≥200ms — when we actually read/see) and **saccades** (30–120ms — rapid jumps between fixation points). Good UI design considers where the eye naturally lands!
 
@@ -109,13 +109,13 @@ Sensors convert physical phenomena (light, sound, pressure) into nerve signals s
 
 **Examples of chunks:**
 
-|Chunk|What it is|Who sees it as one chunk|
-|---|---|---|
-|`A`|A single letter|Everyone|
-|`coffee`|A whole word|Literate adults|
-|`0555 123 456`|A phone number|Familiar format users|
-|😊|WhatsApp logo|Regular WhatsApp users|
-|👤|A friend's face|Anyone who knows them|
+| Chunk          | What it is      | Who sees it as one chunk |
+| -------------- | --------------- | ------------------------ |
+| `A`            | A single letter | Everyone                 |
+| `coffee`       | A whole word    | Literate adults          |
+| `0555 123 456` | A phone number  | Familiar format users    |
+| 😊             | WhatsApp logo   | Regular WhatsApp users   |
+| 👤             | A friend's face | Anyone who knows them    |
 
 > 🎓 **Key insight:** The more experience in a domain, the larger the chunks. A beginner sees individual letters; an expert sees whole words and sentences at once.
 
@@ -184,9 +184,9 @@ Proposed by Allen Newell (1990). Human actions happen at **very different time s
 │  10⁻¹ ──────  100 ms     Deliberate  │  Conscious thinking, │    │
 │                            act        │  quick interactions   │    │
 │                                        └──────────────────────┘    │
-│  10⁻² ──────  10 ms      Neural      ┌──────────────────────┐    │
-│  10⁻³ ──────  1 ms       Neuron      │  ⚡ BIOLOGICAL BAND  │    │
-│  10⁻⁴ ──────  100 µs     Organelle   │  Automatic body      │    │
+│  10⁻² ──────  10 ms      Neural        ┌──────────────────────┐    │
+│  10⁻³ ──────  1 ms       Neuron        │  ⚡ BIOLOGICAL BAND  │    │
+│  10⁻⁴ ──────  100 µs     Organelle     │  Automatic body      │    │
 │                                        │  processes           │    │
 │                                        └──────────────────────┘    │
 └────────────────────────────────────────────────────────────────────┘
@@ -194,12 +194,12 @@ Proposed by Allen Newell (1990). Human actions happen at **very different time s
 
 ### The 4 Bands Explained
 
-|Band|Timeframe|What happens|Examples|
-|---|---|---|---|
-|⚡ **Biological**|µs → 10ms|Automatic body processes, unconscious|Eye reacting to light, neuron firing, brain signal to finger when clicking|
-|💡 **Cognitive**|100ms → 30s|Conscious thinking, quick actions|Clicking a button, reading a word, typing a password, choosing from a menu|
-|🤔 **Rational**|Minutes → Hours|Working, planning, problem-solving|Writing a report, searching for info, booking a trip online|
-|🌐 **Social**|Days → Months|Long-term habits and social behavior|How employees use email or collaboration tools over months|
+| Band             | Timeframe       | What happens                          | Examples                                                                   |
+| ---------------- | --------------- | ------------------------------------- | -------------------------------------------------------------------------- |
+| ⚡ **Biological** | µs → 10ms       | Automatic body processes, unconscious | Eye reacting to light, neuron firing, brain signal to finger when clicking |
+| 💡 **Cognitive** | 100ms → 30s     | Conscious thinking, quick actions     | Clicking a button, reading a word, typing a password, choosing from a menu |
+| 🤔 **Rational**  | Minutes → Hours | Working, planning, problem-solving    | Writing a report, searching for info, booking a trip online                |
+| 🌐 **Social**    | Days → Months   | Long-term habits and social behavior  | How employees use email or collaboration tools over months                 |
 
 > ⭐ **Most HCI research lives in the Cognitive Band** — studying how fast and accurately people interact with interfaces. But remember: **the goal of HCI is to adapt technology to humans, not the inverse!**
 
@@ -213,16 +213,16 @@ KAM is a descriptive model that categorizes all keyboard keys into **3 types** b
 ┌─────────────────────────────────────────────────────────────────┐
 │                    KEY-ACTION MODEL (KAM)                       │
 │                                                                 │
-│  ┌─────────────────┐  ┌─────────────────┐  ┌───────────────┐  │
-│  │  ⌨️ SYMBOL KEYS │  │ ▶️ EXECUTIVE KEY│  │ 🔀 MODIFIER  │  │
-│  ├─────────────────┤  ├─────────────────┤  ├───────────────┤  │
-│  │ Type characters │  │ Perform actions │  │ Change what   │  │
-│  │                 │  │                 │  │ another key   │  │
-│  │ Letters: A–Z    │  │ Enter, Esc,     │  │ does          │  │
-│  │ Numbers: 0–9    │  │ F1–F12,         │  │               │  │
-│  │ Punctuation:    │  │ Tab, Caps Lock, │  │ Shift, Alt,   │  │
-│  │ . , ! ? …       │  │ Delete, Windows │  │ Ctrl, Fn      │  │
-│  └─────────────────┘  └─────────────────┘  └───────────────┘  │
+│  ┌─────────────────┐  ┌─────────────────┐  ┌───────────────┐    │
+│  │  ⌨️ SYMBOL KEYS │  │ ▶️ EXECUTIVE KEY│  │ 🔀 MODIFIER  │    │
+│  ├─────────────────┤  ├─────────────────┤  ├───────────────┤    │
+│  │ Type characters │  │ Perform actions │  │ Change what   │    │
+│  │                 │  │                 │  │ another key   │    │
+│  │ Letters: A–Z    │  │ Enter, Esc,     │  │ does          │    │
+│  │ Numbers: 0–9    │  │ F1–F12,         │  │               │    │
+│  │ Punctuation:    │  │ Tab, Caps Lock, │  │ Shift, Alt,   │    │  
+│  │ . , ! ? …       │  │ Delete, Windows │  │ Ctrl, Fn      │    │
+│  └─────────────────┘  └─────────────────┘  └───────────────┘    │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
@@ -259,41 +259,41 @@ From the book **"The Design of Everyday Things"** by Donald Norman. This model d
 │                        ┌──────────┐                                 │
 │                        │  🎯 GOAL │  ← "What I want to achieve"    │
 │                        └────┬─────┘                                 │
-│            ▲               │               ▲                       │
-│   BRIDGE   │               │               │   BRIDGE              │
-│     OF     │               │               │     OF                │
-│ EVALUATION │               │               │  EXECUTION            │
-│            │               ▼               │                       │
-│   ┌────────┴──────────────────────────┐   │                       │
-│   │           EXECUTION               │   │                       │
-│   │  ┌──────────────────────────────┐ │   │                       │
-│   │  │  2. PLAN   → What to do?     │─┤   │                       │
-│   │  │  3. SPECIFY → Which actions? │─┼───┘                       │
-│   │  │  4. PERFORM → Do it!         │ │                           │
-│   │  └──────────────────────────────┘ │                           │
-│   │           ↓↓↓  WORLD  ↓↓↓         │                           │
-│   │  ┌──────────────────────────────┐ │                           │
-│   │  │  5. PERCEIVE → What happened?│ │                           │
-│   │  │  6. INTERPRET → What does it │ │                           │
-│   │  │     mean?                    │ │                           │
-│   │  │  7. COMPARE → Did I succeed? │ │                           │
-│   │  └──────────────────────────────┘ │                           │
-│   │           EVALUATION              │                           │
-│   └───────────────────────────────────┘                           │
+│            ▲               │              ▲                         │
+│   BRIDGE   │               │              │   BRIDGE                │
+│     OF     │               │              │     OF                  │
+│ EVALUATION │               │              │  EXECUTION              │
+│            │               ▼              │                         │
+│   ┌────────┴──────────────────────────┐   │                         │
+│   │           EXECUTION               │   │                         │
+│   │  ┌──────────────────────────────┐ │   │                         │
+│   │  │  2. PLAN   → What to do?     │─┤   │                         │
+│   │  │  3. SPECIFY → Which actions? │─┼───┘                         │
+│   │  │  4. PERFORM → Do it!         │ │                             │
+│   │  └──────────────────────────────┘ │                             │
+│   │           ↓↓↓  WORLD  ↓↓↓         │                             │
+│   │  ┌──────────────────────────────┐ │                             │
+│   │  │  5. PERCEIVE → What happened?│ │                             │
+│   │  │  6. INTERPRET → What does it │ │                             │
+│   │  │     mean?                    │ │                             │
+│   │  │  7. COMPARE → Did I succeed? │ │                             │
+│   │  └──────────────────────────────┘ │                             │
+│   │           EVALUATION              │                             │
+│   └───────────────────────────────────┘                             │
 └─────────────────────────────────────────────────────────────────────┘
 ```
 
 ### The 7 Stages as Questions
 
-|#|Stage|Question to ask|Category|
-|---|---|---|---|
-|1|🎯 **Goal**|What do I want to do and why?|Goals|
-|2|📋 **Plan**|How can I do it? What actions are possible?|Execution|
-|3|🔍 **Specify**|What exact actions should I take?|Execution|
-|4|👆 **Perform**|Do the action!|Execution|
-|5|👁️ **Perceive**|What happened? What is the state of the world?|Evaluation|
-|6|🧩 **Interpret**|What does what I perceived mean?|Evaluation|
-|7|✅ **Compare**|Did the outcome match my goal?|Evaluation|
+| #   | Stage            | Question to ask                                | Category   |
+| --- | ---------------- | ---------------------------------------------- | ---------- |
+| 1   | 🎯 **Goal**      | What do I want to do and why?                  | Goals      |
+| 2   | 📋 **Plan**      | How can I do it? What actions are possible?    | Execution  |
+| 3   | 🔍 **Specify**   | What exact actions should I take?              | Execution  |
+| 4   | 👆 **Perform**   | Do the action!                                 | Execution  |
+| 5   | 👁️ **Perceive** | What happened? What is the state of the world? | Evaluation |
+| 6   | 🧩 **Interpret** | What does what I perceived mean?               | Evaluation |
+| 7   | ✅ **Compare**    | Did the outcome match my goal?                 | Evaluation |
 
 ---
 
@@ -370,3 +370,9 @@ From the book **"The Design of Everyday Things"** by Donald Norman. This model d
 ---
 
 _📁 ISD · Chapter 2 of N · Links: [[Chapter 1 — Interactive Software & Human-Computer Interaction]] | Next: [[Chapter 3 — Predictive Models Fitts' Law & KLM]]_
+
+---
+## 🔗 Navigation
+- **Module:** [[NTIC L3/DLI/DLI|◀ DLI]]
+- **Semester:** [[NTIC L3/NTIC L3|◀ NTIC L3]]
+- **Academic Home:** [[README|🏠 Home]]

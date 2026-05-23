@@ -184,3 +184,9 @@ Les **nœuds de fin** sont utilisés dans un Diagramme d'Activité (DAC) pour ma
 - Un **nœud de fin de flot** pourrait être utilisé dans un processus où plusieurs étapes parallèles sont exécutées, mais certaines peuvent être arrêtées indépendamment des autres (par exemple, l'achèvement de l'examen d'une commande pendant que le paiement est toujours en cours).
 
 Les nœuds de fin sont cruciaux pour la gestion de la **fin des processus** et la **coordination des flots de contrôle** dans un système.
+
+---
+## 🔗 Navigation
+- **Module:** [[GL|◀ GL]]
+- **Semester:** [[NTIC L2|◀ NTIC L2]]
+- **Academic Home:** [[README|🏠 Home]]

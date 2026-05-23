@@ -28,11 +28,11 @@ User acts → Computer responds → User reacts → ...
 
 ## 📊 Levels of Interaction
 
-|Level|Type|Example|How it works|
-|---|---|---|---|
-|1️⃣|**No interaction**|Compiler|You give input → it processes silently → gives output. No dialogue.|
-|2️⃣|**Limited interaction**|Traffic lights 🚦|Follows a fixed timer automatically. Users just respond to it.|
-|3️⃣|**Fully interactive**|Games, apps 🎮|Every click/tap produces an immediate response. User is in full control.|
+| Level | Type                    | Example           | How it works                                                             |
+| ----- | ----------------------- | ----------------- | ------------------------------------------------------------------------ |
+| 1️⃣   | **No interaction**      | Compiler          | You give input → it processes silently → gives output. No dialogue.      |
+| 2️⃣   | **Limited interaction** | Traffic lights 🚦 | Follows a fixed timer automatically. Users just respond to it.           |
+| 3️⃣   | **Fully interactive**   | Games, apps 🎮    | Every click/tap produces an immediate response. User is in full control. |
 
 ---
 
@@ -40,10 +40,10 @@ User acts → Computer responds → User reacts → ...
 
 > ⚠️ **HCI** is one acronym with **two meanings** (a classic exam trap!):
 
-|Acronym|Meaning (EN)|Meaning (FR)|What it covers|
-|---|---|---|---|
-|**HCI**|Human-Computer **Interaction**|IHM : Interaction(s) Homme-Machine|The full _process_ — behaviors, workflows, feedback loops, UX|
-|**HCI**|Human-Computer **Interface**|IHM : Interface(s) Homme-Machine|The physical/digital _components_ — keyboards, screens, buttons|
+| Acronym | Meaning (EN)                   | Meaning (FR)                       | What it covers                                                  |
+| ------- | ------------------------------ | ---------------------------------- | --------------------------------------------------------------- |
+| **HCI** | Human-Computer **Interaction** | IHM : Interaction(s) Homme-Machine | The full _process_ — behaviors, workflows, feedback loops, UX   |
+| **HCI** | Human-Computer **Interface**   | IHM : Interface(s) Homme-Machine   | The physical/digital _components_ — keyboards, screens, buttons |
 
 > 🔬 **In this course, we focus on Human-Computer _Interaction_ (the broader concept).**
 
@@ -89,13 +89,13 @@ But in reality: **the human interacts with a task _through_ the computer.** The 
 
 ### 🌍 Ways humans differ:
 
-|Dimension|Example|
-|---|---|
-|👶👴 **Age**|A 7-year-old uses tech very differently from a 70-year-old|
-|♿ **Physical abilities**|Some are colorblind, visually impaired, or have limited hand movement|
-|🧑‍💻 **Experience**|A tech expert navigates easily; a beginner gets lost on the same screen|
-|🌍 **Language & culture**|Reading direction: left-to-right vs. right-to-left (Arabic, Hebrew)|
-|😴 **Temporary state**|Tired or stressed users behave differently than alert ones|
+| Dimension                 | Example                                                                 |
+| ------------------------- | ----------------------------------------------------------------------- |
+| 👶👴 **Age**              | A 7-year-old uses tech very differently from a 70-year-old              |
+| ♿ **Physical abilities**  | Some are colorblind, visually impaired, or have limited hand movement   |
+| 🧑‍💻 **Experience**      | A tech expert navigates easily; a beginner gets lost on the same screen |
+| 🌍 **Language & culture** | Reading direction: left-to-right vs. right-to-left (Arabic, Hebrew)     |
+| 😴 **Temporary state**    | Tired or stressed users behave differently than alert ones              |
 
 ### 💥 Real-world impact examples:
 
@@ -153,15 +153,21 @@ Instead, successful HCI designers:
 
 ## 🧠 Chapter Summary — Quick Recall
 
-|Concept|One-line definition|
-|---|---|
-|Interactive system|Two-way communication between user and computer|
-|HCI (Interaction)|Process + experience of human-machine collaboration|
-|HCI (Interface)|Physical/digital components used to communicate|
-|1983|Birth year of HCI (SIGCHI + book + Mac)|
-|"Know the user"|Design for your actual users, not everyone|
-|Human variability|Humans differ in age, ability, culture, experience, state|
+| Concept            | One-line definition                                       |
+| ------------------ | --------------------------------------------------------- |
+| Interactive system | Two-way communication between user and computer           |
+| HCI (Interaction)  | Process + experience of human-machine collaboration       |
+| HCI (Interface)    | Physical/digital components used to communicate           |
+| 1983               | Birth year of HCI (SIGCHI + book + Mac)                   |
+| "Know the user"    | Design for your actual users, not everyone                |
+| Human variability  | Humans differ in age, ability, culture, experience, state |
 
 ---
 
 _📁 ISD · Chapter 1 of N · Next: [[Chapter 2 — Descriptive & Predictive Models of the Human]]_
+
+---
+## 🔗 Navigation
+- **Module:** [[NTIC L3/DLI/DLI|◀ DLI]]
+- **Semester:** [[NTIC L3/NTIC L3|◀ NTIC L3]]
+- **Academic Home:** [[README|🏠 Home]]

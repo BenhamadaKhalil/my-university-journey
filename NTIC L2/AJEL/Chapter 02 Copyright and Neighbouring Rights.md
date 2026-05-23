@@ -78,3 +78,9 @@
 - **Moral rights** protect the personal connection between the author and their work, while **economic rights** allow authors to financially exploit their works.
 - **Neighbouring rights** protect those who contribute to the public’s access to the work, such as performers and producers.
 - The **duration** of **copyright protection** typically lasts for the author’s lifetime plus 50 years, after which the work becomes the **public domain**.
+
+---
+## 🔗 Navigation
+- **Module:** [[AJEL|◀ AJEL]]
+- **Semester:** [[NTIC L2|◀ NTIC L2]]
+- **Academic Home:** [[README|🏠 Home]]

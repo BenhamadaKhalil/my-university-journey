@@ -1,0 +1,15 @@
+# 📋 GPL
+
+◀ [[NTIC L3/NTIC L3|NTIC L3]] | [[README|🏠 Home]]
+
+## 📝 Course Notes & Lectures
+
+- [[NTIC L3/GPL/CHAPTER 4 — TASK PLANNING & PERT METHOD|CHAPTER 4 — TASK PLANNING & PERT METHOD]]
+- [[NTIC L3/GPL/Chapter 1 - SOFTWARE PROJECT MANAGEMENT|Chapter 1 - SOFTWARE PROJECT MANAGEMENT]]
+- [[NTIC L3/GPL/Chapter 2 - Characteristics of an IT Project|Chapter 2 - Characteristics of an IT Project]]
+- [[NTIC L3/GPL/Chapter 3 - PROJECT PLANNING|Chapter 3 - PROJECT PLANNING]]
+- [[NTIC L3/GPL/GANTT CHART|GANTT CHART]]
+- [[NTIC L3/GPL/PERT|PERT]]
+- [[NTIC L3/GPL/TD 1|TD 1]]
+- [[NTIC L3/GPL/TD 2|TD 2]]
+- [[NTIC L3/GPL/TP4|TP4]]

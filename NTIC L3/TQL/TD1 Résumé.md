@@ -180,3 +180,9 @@ If you want, I can also create:
 ✨ un modèle Obsidian (template)  
 🎨 un schéma GFC en ASCII ou image  
 📄 un PDF propre pour impression
+
+---
+## 🔗 Navigation
+- **Module:** [[NTIC L3/TQL/TQL|◀ TQL]]
+- **Semester:** [[NTIC L3/NTIC L3|◀ NTIC L3]]
+- **Academic Home:** [[README|🏠 Home]]

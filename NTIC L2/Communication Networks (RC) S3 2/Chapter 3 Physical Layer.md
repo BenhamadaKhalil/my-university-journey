@@ -206,3 +206,9 @@ Understanding both the **symbol rate** and **data transfer rate** is essential f
 
 ## Conclusion:
 **Interconnection devices** are crucial for the smooth operation of any network. From **hubs** and **switches** that connect devices within a local network, to **routers** and **gateways** that allow communication between different networks, these devices help facilitate data transmission, ensure efficient routing, and provide security in network communication.
+
+---
+## 🔗 Navigation
+- **Module:** [[Communication Networks (RC) S3 2|◀ Communication Networks (RC) S3 2]]
+- **Semester:** [[NTIC L2|◀ NTIC L2]]
+- **Academic Home:** [[README|🏠 Home]]

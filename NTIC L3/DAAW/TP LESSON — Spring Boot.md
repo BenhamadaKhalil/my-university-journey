@@ -516,3 +516,9 @@ Tell me which style you want first:
 - **B)** “Make an exam (QCM + code gaps) from Security TP08/09”
     
 - **C)** “Give me a full project skeleton (folders + code)”
+
+---
+## 🔗 Navigation
+- **Module:** [[NTIC L3/DAAW/DAAW|◀ DAAW]]
+- **Semester:** [[NTIC L3/NTIC L3|◀ NTIC L3]]
+- **Academic Home:** [[README|🏠 Home]]

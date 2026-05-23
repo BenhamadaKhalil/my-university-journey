@@ -186,3 +186,9 @@ Dmax=4000⋅log⁡2(1+100)≈4000⋅6.6582=26632.8 bpsD_{max} = 4000 \cdot \log
 ✅ **Paste this directly into Obsidian** — it uses double-dollar `$$` blocks for math, which Obsidian renders perfectly if math mode is enabled.
 
 Want it as flashcards or daily review prompts (like Obsidian + Anki)? Just say the word!
+
+---
+## 🔗 Navigation
+- **Module:** [[Communication Networks (RC) S3 2|◀ Communication Networks (RC) S3 2]]
+- **Semester:** [[NTIC L2|◀ NTIC L2]]
+- **Academic Home:** [[README|🏠 Home]]

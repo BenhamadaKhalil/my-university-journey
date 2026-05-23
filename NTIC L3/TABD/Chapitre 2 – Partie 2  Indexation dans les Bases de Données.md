@@ -543,4 +543,9 @@ AND →   1 0  ✅ = Ali
 - Les **bitmaps** servent aux filtres booléens
     
 - Les **formules** aident à mesurer la performance et la capacité de stockage
-    
+
+---
+## 🔗 Navigation
+- **Module:** [[NTIC L3/TABD/TABD|◀ TABD]]
+- **Semester:** [[NTIC L3/NTIC L3|◀ NTIC L3]]
+- **Academic Home:** [[README|🏠 Home]]

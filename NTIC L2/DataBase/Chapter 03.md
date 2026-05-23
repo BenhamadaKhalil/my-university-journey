@@ -49,3 +49,9 @@ Unary operations involve a single relation (table). The result of these operatio
 These unary operations help manipulate data within a single relation by filtering, projecting, or renaming attributes.
 
 Now you can copy the entire section at once. Let me know if you need anything else!
+
+---
+## 🔗 Navigation
+- **Module:** [[DataBase|◀ DataBase]]
+- **Semester:** [[NTIC L2|◀ NTIC L2]]
+- **Academic Home:** [[README|🏠 Home]]
